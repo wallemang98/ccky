@@ -17,6 +17,9 @@
           <li class="nav-item">
             <a class="nav-link nav-text text-white" href="/menu">Menu</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link nav-text text-white" href="/gallery">Gallery</a>
+          </li>
 
         <!--  <li class="nav-item">
             <a class="nav-link nav-text text-white" href="/about">About</a>

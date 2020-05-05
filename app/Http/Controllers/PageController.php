@@ -16,4 +16,8 @@ class PageController extends Controller
   public function menu() {
         return view('pages.menu');
   }//closing menu()
+
+  public function gallery() {
+        return view('pages.gallery');
+  }//closing gallery()
 }

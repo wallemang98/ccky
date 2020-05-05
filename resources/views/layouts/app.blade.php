@@ -56,12 +56,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <!--<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
     <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js"></script> -->
-    <script>
-           $(function() {
-                $('.lazy').Lazy();
-            });
-    </script>
 
     <!-- Scripts --> <!-- defer????*** -->
-    <script src="{{ asset('js/all.js') }}" defer></script>
+    <script src="{{ asset('/js/all.js') }}" defer></script>
 </html>

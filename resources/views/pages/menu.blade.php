@@ -290,6 +290,8 @@
 
   <div class="row">
       <div class="col-xs-12 mx-auto d-block">
+        <br>
+        <br>
         <img class="menuImage rounded mx-auto d-block" src="{{ asset('assets/img/menu.jpg') }}" />
       </div>
   </div>

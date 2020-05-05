@@ -1,0 +1,32 @@
+/*
+ *  Stylesheet for Commonwealth Catering llc
+ *  @ commonwealthcateringky.com
+ *  Made by William Allemang
+ *  Copyright 2020 Allemang Designs
+*/
+
+/*home page */
+.logo {
+  width: 200px;
+  height: 200px;
+}
+
+.portrait {
+  width: 68%;
+  border: 1px solid black;
+}
+
+/*menu page */
+.menuImage {
+  width: 100%/*1200px*/;
+  border: 1px solid black;
+}
+
+footer {
+  background-color: white;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}

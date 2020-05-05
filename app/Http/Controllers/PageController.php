@@ -20,4 +20,8 @@ class PageController extends Controller
   public function gallery() {
         return view('pages.gallery');
   }//closing gallery()
+
+  public function contact() {
+        return view('pages.contact');
+  }//closing contact()
 }

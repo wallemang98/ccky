@@ -12,4 +12,8 @@ class PageController extends Controller
   public function index() {
         return view('pages.index');
     } //closing index()
+
+  public function menu() {
+        return view('pages.menu');
+  }//closing menu()
 }
